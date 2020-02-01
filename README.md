@@ -13,3 +13,6 @@ Q3. Design  a  superclass  called Staff  with  details  as  StaffId,  Name,  Pho
 Extend this   class   by   writing   three   subclasses   namely Teaching   (domain,   publications), 
 Technical  (skills),  and Contract  (period).
 Write  a  Java  program  to  read  and  display  at least 3 staff objects of all three categories. (inheritance.java)
+
+Q4. Write a Java program to read two integers a andb. Compute a/b and print, when b is not zero.
+    Raise an exception when b is equal to zero. (exceptions.java)
