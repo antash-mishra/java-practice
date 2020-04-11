@@ -50,6 +50,6 @@ class dijkstraAlgo {
                 { 8, 11, 0, 0, 0, 0, 1, 0, 7 },
                 { 0, 0, 2, 0, 0, 0, 6, 7, 0 } };
         dijkstraAlgo t = new dijkstraAlgo();
-        t.dijkstra(graph[][] , 0);
+        t.dijkstra(graph , 0);
     }
 }
