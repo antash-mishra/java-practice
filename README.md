@@ -26,5 +26,7 @@ Q7. From  a  given  vertex  in  a  weighted  connected  graph,find  shortest  pa
 Q8. Find Minimum Cost Spanning Tree of a given connected undirected graph using  Kruskal'salgorithm. 
     Use Union-Find algorithms in your program (kruskal.java)
 
+Q9. Find Minimum Cost Spanning Tree of a given connected undirected graph using  Prim's algorithm.(primsAlgo.java)
+ 
  
 
