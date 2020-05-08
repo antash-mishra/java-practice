@@ -21,5 +21,10 @@ Q5. Sort  a  given  set  of n integer  elements  using Merge  Sort method  and  
 
 Q6. Sort  a  given  set  of n integer  elements  using Quick  Sort method  and  compute  its  time complexity.  Run  the  program  for  varied  values  of n>  5000  and  record  the  time  taken  to  sort. Plot a graph of the time taken versus non graph sheet. The elements can be read from a file or can be generated using the random number generator. Demonstrate using Java how the divide-and-conquer  method  works  along  with  its  time  complexity  analysis:  worst  case,  average  case and best case.(quickSort.java)
 
-Q7.From  a  given  vertex  in  a  weighted  connected  graph,  find  shortest  paths  to  other  vertices using Dijkstra's algorithm. Write the program in Java.(dijkstraAlgo.java)
+Q7. From  a  given  vertex  in  a  weighted  connected  graph,find  shortest  paths  to  other  vertices using Dijkstra's algorithm.Write the  program in Java.(dijkstraAlgo.java)
+
+Q8. Find Minimum Cost Spanning Tree of a given connected undirected graph using  Kruskal'salgorithm. 
+    Use Union-Find algorithms in your program (kruskal.java)
+
+ 
 
